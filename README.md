@@ -70,7 +70,7 @@ FUTURE_FS_03/
 ## 🚀 Deployment
 
 The project is deployed using **Netlify** for quick and reliable static hosting.
-No build tools or backend services were required.
+No build tools or backend services were required
 
 ---
 
